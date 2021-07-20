@@ -1,0 +1,2 @@
+class NumcleosomeRenderer:
+    pass
